@@ -5,7 +5,8 @@ Its purpose is to showcase my skills in implementing basic ML algorithms, includ
 
 Below is a list of links to datasets used in each project or exercice: 
 
-CNN: https://www.kaggle.com/datasets/alessiocorrado99/animals10
+CNN: https://www.kaggle.com/datasets/alessiocorrado99/animals10\
+
 RNN: https://www.kaggle.com/datasets/subhajournal/tweet-sentiment-and-emotion-analysis
 
 TBC...
