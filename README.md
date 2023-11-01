@@ -9,7 +9,7 @@ CNN: https://www.kaggle.com/datasets/alessiocorrado99/animals10
 
 RNN: https://www.kaggle.com/datasets/subhajournal/tweet-sentiment-and-emotion-analysis
 
-TBC...
+decision tree, neural networks, naive Bayes: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 
 
